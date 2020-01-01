@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group33_IC07</string>
+    <string name="search">Search</string>
+    <string name="sortBy">Sort by:</string>
+    <string name="searchResults">Search results</string>
+    <string name="limit">Limit: 5</string>
+    <string name="trackRating">Track rating</string>
+    <string name="artistRating">Artist Rating</string>
+</resources>
